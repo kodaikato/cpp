@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/kodaikato/workspace/cpp/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7    -g   -o CMakeFiles/AtCoder.dir/main.cpp.o -c /home/kodaikato/workspace/cpp/main.cpp",
+  "file": "/home/kodaikato/workspace/cpp/main.cpp"
+}
+]
